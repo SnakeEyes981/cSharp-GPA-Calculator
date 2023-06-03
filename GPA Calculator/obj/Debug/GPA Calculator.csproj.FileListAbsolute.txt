@@ -1,0 +1,22 @@
+C:\Users\Hassan\source\repos\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe.config
+C:\Users\Hassan\source\repos\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe
+C:\Users\Hassan\source\repos\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.pdb
+C:\Users\Hassan\source\repos\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.AssemblyReference.cache
+C:\Users\Hassan\source\repos\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hassan\source\repos\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Form1.resources
+C:\Users\Hassan\source\repos\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Properties.Resources.resources
+C:\Users\Hassan\source\repos\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.GenerateResource.cache
+C:\Users\Hassan\source\repos\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\source\repos\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.exe
+C:\Users\Hassan\source\repos\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.pdb
+D:\BSCS Hassan\Semester 2nd\C# Projects\Copy of GPA\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe.config
+D:\BSCS Hassan\Semester 2nd\C# Projects\Copy of GPA\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe
+D:\BSCS Hassan\Semester 2nd\C# Projects\Copy of GPA\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.pdb
+D:\BSCS Hassan\Semester 2nd\C# Projects\Copy of GPA\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.AssemblyReference.cache
+D:\BSCS Hassan\Semester 2nd\C# Projects\Copy of GPA\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.SuggestedBindingRedirects.cache
+D:\BSCS Hassan\Semester 2nd\C# Projects\Copy of GPA\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Form1.resources
+D:\BSCS Hassan\Semester 2nd\C# Projects\Copy of GPA\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Properties.Resources.resources
+D:\BSCS Hassan\Semester 2nd\C# Projects\Copy of GPA\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.GenerateResource.cache
+D:\BSCS Hassan\Semester 2nd\C# Projects\Copy of GPA\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.CoreCompileInputs.cache
+D:\BSCS Hassan\Semester 2nd\C# Projects\Copy of GPA\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.exe
+D:\BSCS Hassan\Semester 2nd\C# Projects\Copy of GPA\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.pdb
